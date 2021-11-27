@@ -1,0 +1,4522 @@
+/* line 523, ../sass/_colors.scss */
+.materialize-red {
+  background-color: #e51c23 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.materialize-red-text {
+  color: #e51c23 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.materialize-red.lighten-5 {
+  background-color: #fdeaeb !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.materialize-red-text.text-lighten-5 {
+  color: #fdeaeb !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.materialize-red.lighten-4 {
+  background-color: #f8c1c3 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.materialize-red-text.text-lighten-4 {
+  color: #f8c1c3 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.materialize-red.lighten-3 {
+  background-color: #f3989b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.materialize-red-text.text-lighten-3 {
+  color: #f3989b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.materialize-red.lighten-2 {
+  background-color: #ee6e73 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.materialize-red-text.text-lighten-2 {
+  color: #ee6e73 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.materialize-red.lighten-1 {
+  background-color: #ea454b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.materialize-red-text.text-lighten-1 {
+  color: #ea454b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.materialize-red.darken-1 {
+  background-color: #d0181e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.materialize-red-text.text-darken-1 {
+  color: #d0181e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.materialize-red.darken-2 {
+  background-color: #b9151b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.materialize-red-text.text-darken-2 {
+  color: #b9151b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.materialize-red.darken-3 {
+  background-color: #a21318 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.materialize-red-text.text-darken-3 {
+  color: #a21318 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.materialize-red.darken-4 {
+  background-color: #8b1014 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.materialize-red-text.text-darken-4 {
+  color: #8b1014 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.red {
+  background-color: #F44336 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.red-text {
+  color: #F44336 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.lighten-5 {
+  background-color: #FFEBEE !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-lighten-5 {
+  color: #FFEBEE !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.lighten-4 {
+  background-color: #FFCDD2 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-lighten-4 {
+  color: #FFCDD2 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.lighten-3 {
+  background-color: #EF9A9A !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-lighten-3 {
+  color: #EF9A9A !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.lighten-2 {
+  background-color: #E57373 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-lighten-2 {
+  color: #E57373 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.lighten-1 {
+  background-color: #EF5350 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-lighten-1 {
+  color: #EF5350 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.darken-1 {
+  background-color: #E53935 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-darken-1 {
+  color: #E53935 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.darken-2 {
+  background-color: #D32F2F !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-darken-2 {
+  color: #D32F2F !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.darken-3 {
+  background-color: #C62828 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-darken-3 {
+  color: #C62828 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.darken-4 {
+  background-color: #B71C1C !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-darken-4 {
+  color: #B71C1C !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.accent-1 {
+  background-color: #FF8A80 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-accent-1 {
+  color: #FF8A80 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.accent-2 {
+  background-color: #FF5252 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-accent-2 {
+  color: #FF5252 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.accent-3 {
+  background-color: #FF1744 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-accent-3 {
+  color: #FF1744 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.red.accent-4 {
+  background-color: #D50000 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.red-text.text-accent-4 {
+  color: #D50000 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.pink {
+  background-color: #e91e63 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.pink-text {
+  color: #e91e63 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.lighten-5 {
+  background-color: #fce4ec !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-lighten-5 {
+  color: #fce4ec !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.lighten-4 {
+  background-color: #f8bbd0 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-lighten-4 {
+  color: #f8bbd0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.lighten-3 {
+  background-color: #f48fb1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-lighten-3 {
+  color: #f48fb1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.lighten-2 {
+  background-color: #f06292 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-lighten-2 {
+  color: #f06292 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.lighten-1 {
+  background-color: #ec407a !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-lighten-1 {
+  color: #ec407a !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.darken-1 {
+  background-color: #d81b60 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-darken-1 {
+  color: #d81b60 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.darken-2 {
+  background-color: #c2185b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-darken-2 {
+  color: #c2185b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.darken-3 {
+  background-color: #ad1457 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-darken-3 {
+  color: #ad1457 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.darken-4 {
+  background-color: #880e4f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-darken-4 {
+  color: #880e4f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.accent-1 {
+  background-color: #ff80ab !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-accent-1 {
+  color: #ff80ab !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.accent-2 {
+  background-color: #ff4081 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-accent-2 {
+  color: #ff4081 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.accent-3 {
+  background-color: #f50057 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-accent-3 {
+  color: #f50057 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.pink.accent-4 {
+  background-color: #c51162 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.pink-text.text-accent-4 {
+  color: #c51162 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.purple {
+  background-color: #9c27b0 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.purple-text {
+  color: #9c27b0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.lighten-5 {
+  background-color: #f3e5f5 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-lighten-5 {
+  color: #f3e5f5 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.lighten-4 {
+  background-color: #e1bee7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-lighten-4 {
+  color: #e1bee7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.lighten-3 {
+  background-color: #ce93d8 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-lighten-3 {
+  color: #ce93d8 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.lighten-2 {
+  background-color: #ba68c8 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-lighten-2 {
+  color: #ba68c8 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.lighten-1 {
+  background-color: #ab47bc !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-lighten-1 {
+  color: #ab47bc !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.darken-1 {
+  background-color: #8e24aa !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-darken-1 {
+  color: #8e24aa !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.darken-2 {
+  background-color: #7b1fa2 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-darken-2 {
+  color: #7b1fa2 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.darken-3 {
+  background-color: #6a1b9a !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-darken-3 {
+  color: #6a1b9a !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.darken-4 {
+  background-color: #4a148c !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-darken-4 {
+  color: #4a148c !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.accent-1 {
+  background-color: #ea80fc !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-accent-1 {
+  color: #ea80fc !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.accent-2 {
+  background-color: #e040fb !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-accent-2 {
+  color: #e040fb !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.accent-3 {
+  background-color: #d500f9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-accent-3 {
+  color: #d500f9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.purple.accent-4 {
+  background-color: #aa00ff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.purple-text.text-accent-4 {
+  color: #aa00ff !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.deep-purple {
+  background-color: #673ab7 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.deep-purple-text {
+  color: #673ab7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.lighten-5 {
+  background-color: #ede7f6 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-lighten-5 {
+  color: #ede7f6 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.lighten-4 {
+  background-color: #d1c4e9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-lighten-4 {
+  color: #d1c4e9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.lighten-3 {
+  background-color: #b39ddb !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-lighten-3 {
+  color: #b39ddb !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.lighten-2 {
+  background-color: #9575cd !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-lighten-2 {
+  color: #9575cd !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.lighten-1 {
+  background-color: #7e57c2 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-lighten-1 {
+  color: #7e57c2 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.darken-1 {
+  background-color: #5e35b1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-darken-1 {
+  color: #5e35b1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.darken-2 {
+  background-color: #512da8 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-darken-2 {
+  color: #512da8 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.darken-3 {
+  background-color: #4527a0 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-darken-3 {
+  color: #4527a0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.darken-4 {
+  background-color: #311b92 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-darken-4 {
+  color: #311b92 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.accent-1 {
+  background-color: #b388ff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-accent-1 {
+  color: #b388ff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.accent-2 {
+  background-color: #7c4dff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-accent-2 {
+  color: #7c4dff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.accent-3 {
+  background-color: #651fff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-accent-3 {
+  color: #651fff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-purple.accent-4 {
+  background-color: #6200ea !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-purple-text.text-accent-4 {
+  color: #6200ea !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.indigo {
+  background-color: #3f51b5 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.indigo-text {
+  color: #3f51b5 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.lighten-5 {
+  background-color: #e8eaf6 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-lighten-5 {
+  color: #e8eaf6 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.lighten-4 {
+  background-color: #c5cae9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-lighten-4 {
+  color: #c5cae9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.lighten-3 {
+  background-color: #9fa8da !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-lighten-3 {
+  color: #9fa8da !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.lighten-2 {
+  background-color: #7986cb !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-lighten-2 {
+  color: #7986cb !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.lighten-1 {
+  background-color: #5c6bc0 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-lighten-1 {
+  color: #5c6bc0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.darken-1 {
+  background-color: #3949ab !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-darken-1 {
+  color: #3949ab !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.darken-2 {
+  background-color: #303f9f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-darken-2 {
+  color: #303f9f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.darken-3 {
+  background-color: #283593 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-darken-3 {
+  color: #283593 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.darken-4 {
+  background-color: #1a237e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-darken-4 {
+  color: #1a237e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.accent-1 {
+  background-color: #8c9eff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-accent-1 {
+  color: #8c9eff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.accent-2 {
+  background-color: #536dfe !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-accent-2 {
+  color: #536dfe !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.accent-3 {
+  background-color: #3d5afe !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-accent-3 {
+  color: #3d5afe !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.indigo.accent-4 {
+  background-color: #304ffe !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.indigo-text.text-accent-4 {
+  color: #304ffe !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.blue {
+  background-color: #2196F3 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.blue-text {
+  color: #2196F3 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.lighten-5 {
+  background-color: #E3F2FD !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-lighten-5 {
+  color: #E3F2FD !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.lighten-4 {
+  background-color: #BBDEFB !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-lighten-4 {
+  color: #BBDEFB !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.lighten-3 {
+  background-color: #90CAF9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-lighten-3 {
+  color: #90CAF9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.lighten-2 {
+  background-color: #64B5F6 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-lighten-2 {
+  color: #64B5F6 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.lighten-1 {
+  background-color: #42A5F5 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-lighten-1 {
+  color: #42A5F5 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.darken-1 {
+  background-color: #1E88E5 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-darken-1 {
+  color: #1E88E5 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.darken-2 {
+  background-color: #1976D2 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-darken-2 {
+  color: #1976D2 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.darken-3 {
+  background-color: #1565C0 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-darken-3 {
+  color: #1565C0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.darken-4 {
+  background-color: #0D47A1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-darken-4 {
+  color: #0D47A1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.accent-1 {
+  background-color: #82B1FF !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-accent-1 {
+  color: #82B1FF !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.accent-2 {
+  background-color: #448AFF !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-accent-2 {
+  color: #448AFF !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.accent-3 {
+  background-color: #2979FF !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-accent-3 {
+  color: #2979FF !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue.accent-4 {
+  background-color: #2962FF !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-text.text-accent-4 {
+  color: #2962FF !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.light-blue {
+  background-color: #03a9f4 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.light-blue-text {
+  color: #03a9f4 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.lighten-5 {
+  background-color: #e1f5fe !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-lighten-5 {
+  color: #e1f5fe !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.lighten-4 {
+  background-color: #b3e5fc !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-lighten-4 {
+  color: #b3e5fc !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.lighten-3 {
+  background-color: #81d4fa !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-lighten-3 {
+  color: #81d4fa !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.lighten-2 {
+  background-color: #4fc3f7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-lighten-2 {
+  color: #4fc3f7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.lighten-1 {
+  background-color: #29b6f6 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-lighten-1 {
+  color: #29b6f6 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.darken-1 {
+  background-color: #039be5 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-darken-1 {
+  color: #039be5 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.darken-2 {
+  background-color: #0288d1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-darken-2 {
+  color: #0288d1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.darken-3 {
+  background-color: #0277bd !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-darken-3 {
+  color: #0277bd !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.darken-4 {
+  background-color: #01579b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-darken-4 {
+  color: #01579b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.accent-1 {
+  background-color: #80d8ff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-accent-1 {
+  color: #80d8ff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.accent-2 {
+  background-color: #40c4ff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-accent-2 {
+  color: #40c4ff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.accent-3 {
+  background-color: #00b0ff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-accent-3 {
+  color: #00b0ff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-blue.accent-4 {
+  background-color: #0091ea !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-blue-text.text-accent-4 {
+  color: #0091ea !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.cyan {
+  background-color: #00bcd4 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.cyan-text {
+  color: #00bcd4 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.lighten-5 {
+  background-color: #e0f7fa !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-lighten-5 {
+  color: #e0f7fa !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.lighten-4 {
+  background-color: #b2ebf2 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-lighten-4 {
+  color: #b2ebf2 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.lighten-3 {
+  background-color: #80deea !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-lighten-3 {
+  color: #80deea !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.lighten-2 {
+  background-color: #4dd0e1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-lighten-2 {
+  color: #4dd0e1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.lighten-1 {
+  background-color: #26c6da !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-lighten-1 {
+  color: #26c6da !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.darken-1 {
+  background-color: #00acc1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-darken-1 {
+  color: #00acc1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.darken-2 {
+  background-color: #0097a7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-darken-2 {
+  color: #0097a7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.darken-3 {
+  background-color: #00838f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-darken-3 {
+  color: #00838f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.darken-4 {
+  background-color: #006064 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-darken-4 {
+  color: #006064 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.accent-1 {
+  background-color: #84ffff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-accent-1 {
+  color: #84ffff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.accent-2 {
+  background-color: #18ffff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-accent-2 {
+  color: #18ffff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.accent-3 {
+  background-color: #00e5ff !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-accent-3 {
+  color: #00e5ff !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.cyan.accent-4 {
+  background-color: #00b8d4 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.cyan-text.text-accent-4 {
+  color: #00b8d4 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.teal {
+  background-color: #009688 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.teal-text {
+  color: #009688 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.lighten-5 {
+  background-color: #e0f2f1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-lighten-5 {
+  color: #e0f2f1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.lighten-4 {
+  background-color: #b2dfdb !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-lighten-4 {
+  color: #b2dfdb !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.lighten-3 {
+  background-color: #80cbc4 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-lighten-3 {
+  color: #80cbc4 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.lighten-2 {
+  background-color: #4db6ac !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-lighten-2 {
+  color: #4db6ac !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.lighten-1 {
+  background-color: #26a69a !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-lighten-1 {
+  color: #26a69a !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.darken-1 {
+  background-color: #00897b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-darken-1 {
+  color: #00897b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.darken-2 {
+  background-color: #00796b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-darken-2 {
+  color: #00796b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.darken-3 {
+  background-color: #00695c !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-darken-3 {
+  color: #00695c !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.darken-4 {
+  background-color: #004d40 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-darken-4 {
+  color: #004d40 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.accent-1 {
+  background-color: #a7ffeb !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-accent-1 {
+  color: #a7ffeb !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.accent-2 {
+  background-color: #64ffda !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-accent-2 {
+  color: #64ffda !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.accent-3 {
+  background-color: #1de9b6 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-accent-3 {
+  color: #1de9b6 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.teal.accent-4 {
+  background-color: #00bfa5 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.teal-text.text-accent-4 {
+  color: #00bfa5 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.green {
+  background-color: #4CAF50 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.green-text {
+  color: #4CAF50 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.lighten-5 {
+  background-color: #E8F5E9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-lighten-5 {
+  color: #E8F5E9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.lighten-4 {
+  background-color: #C8E6C9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-lighten-4 {
+  color: #C8E6C9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.lighten-3 {
+  background-color: #A5D6A7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-lighten-3 {
+  color: #A5D6A7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.lighten-2 {
+  background-color: #81C784 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-lighten-2 {
+  color: #81C784 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.lighten-1 {
+  background-color: #66BB6A !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-lighten-1 {
+  color: #66BB6A !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.darken-1 {
+  background-color: #43A047 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-darken-1 {
+  color: #43A047 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.darken-2 {
+  background-color: #388E3C !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-darken-2 {
+  color: #388E3C !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.darken-3 {
+  background-color: #2E7D32 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-darken-3 {
+  color: #2E7D32 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.darken-4 {
+  background-color: #1B5E20 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-darken-4 {
+  color: #1B5E20 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.accent-1 {
+  background-color: #B9F6CA !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-accent-1 {
+  color: #B9F6CA !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.accent-2 {
+  background-color: #69F0AE !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-accent-2 {
+  color: #69F0AE !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.accent-3 {
+  background-color: #00E676 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-accent-3 {
+  color: #00E676 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.green.accent-4 {
+  background-color: #00C853 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.green-text.text-accent-4 {
+  color: #00C853 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.light-green {
+  background-color: #8bc34a !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.light-green-text {
+  color: #8bc34a !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.lighten-5 {
+  background-color: #f1f8e9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-lighten-5 {
+  color: #f1f8e9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.lighten-4 {
+  background-color: #dcedc8 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-lighten-4 {
+  color: #dcedc8 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.lighten-3 {
+  background-color: #c5e1a5 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-lighten-3 {
+  color: #c5e1a5 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.lighten-2 {
+  background-color: #aed581 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-lighten-2 {
+  color: #aed581 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.lighten-1 {
+  background-color: #9ccc65 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-lighten-1 {
+  color: #9ccc65 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.darken-1 {
+  background-color: #7cb342 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-darken-1 {
+  color: #7cb342 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.darken-2 {
+  background-color: #689f38 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-darken-2 {
+  color: #689f38 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.darken-3 {
+  background-color: #558b2f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-darken-3 {
+  color: #558b2f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.darken-4 {
+  background-color: #33691e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-darken-4 {
+  color: #33691e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.accent-1 {
+  background-color: #ccff90 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-accent-1 {
+  color: #ccff90 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.accent-2 {
+  background-color: #b2ff59 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-accent-2 {
+  color: #b2ff59 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.accent-3 {
+  background-color: #76ff03 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-accent-3 {
+  color: #76ff03 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.light-green.accent-4 {
+  background-color: #64dd17 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.light-green-text.text-accent-4 {
+  color: #64dd17 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.lime {
+  background-color: #cddc39 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.lime-text {
+  color: #cddc39 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.lighten-5 {
+  background-color: #f9fbe7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-lighten-5 {
+  color: #f9fbe7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.lighten-4 {
+  background-color: #f0f4c3 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-lighten-4 {
+  color: #f0f4c3 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.lighten-3 {
+  background-color: #e6ee9c !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-lighten-3 {
+  color: #e6ee9c !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.lighten-2 {
+  background-color: #dce775 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-lighten-2 {
+  color: #dce775 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.lighten-1 {
+  background-color: #d4e157 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-lighten-1 {
+  color: #d4e157 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.darken-1 {
+  background-color: #c0ca33 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-darken-1 {
+  color: #c0ca33 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.darken-2 {
+  background-color: #afb42b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-darken-2 {
+  color: #afb42b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.darken-3 {
+  background-color: #9e9d24 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-darken-3 {
+  color: #9e9d24 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.darken-4 {
+  background-color: #827717 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-darken-4 {
+  color: #827717 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.accent-1 {
+  background-color: #f4ff81 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-accent-1 {
+  color: #f4ff81 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.accent-2 {
+  background-color: #eeff41 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-accent-2 {
+  color: #eeff41 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.accent-3 {
+  background-color: #c6ff00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-accent-3 {
+  color: #c6ff00 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.lime.accent-4 {
+  background-color: #aeea00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.lime-text.text-accent-4 {
+  color: #aeea00 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.yellow {
+  background-color: #ffeb3b !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.yellow-text {
+  color: #ffeb3b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.lighten-5 {
+  background-color: #fffde7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-lighten-5 {
+  color: #fffde7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.lighten-4 {
+  background-color: #fff9c4 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-lighten-4 {
+  color: #fff9c4 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.lighten-3 {
+  background-color: #fff59d !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-lighten-3 {
+  color: #fff59d !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.lighten-2 {
+  background-color: #fff176 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-lighten-2 {
+  color: #fff176 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.lighten-1 {
+  background-color: #ffee58 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-lighten-1 {
+  color: #ffee58 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.darken-1 {
+  background-color: #fdd835 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-darken-1 {
+  color: #fdd835 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.darken-2 {
+  background-color: #fbc02d !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-darken-2 {
+  color: #fbc02d !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.darken-3 {
+  background-color: #f9a825 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-darken-3 {
+  color: #f9a825 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.darken-4 {
+  background-color: #f57f17 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-darken-4 {
+  color: #f57f17 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.accent-1 {
+  background-color: #ffff8d !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-accent-1 {
+  color: #ffff8d !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.accent-2 {
+  background-color: #ffff00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-accent-2 {
+  color: #ffff00 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.accent-3 {
+  background-color: #ffea00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-accent-3 {
+  color: #ffea00 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.yellow.accent-4 {
+  background-color: #ffd600 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.yellow-text.text-accent-4 {
+  color: #ffd600 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.amber {
+  background-color: #ffc107 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.amber-text {
+  color: #ffc107 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.lighten-5 {
+  background-color: #fff8e1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-lighten-5 {
+  color: #fff8e1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.lighten-4 {
+  background-color: #ffecb3 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-lighten-4 {
+  color: #ffecb3 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.lighten-3 {
+  background-color: #ffe082 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-lighten-3 {
+  color: #ffe082 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.lighten-2 {
+  background-color: #ffd54f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-lighten-2 {
+  color: #ffd54f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.lighten-1 {
+  background-color: #ffca28 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-lighten-1 {
+  color: #ffca28 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.darken-1 {
+  background-color: #ffb300 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-darken-1 {
+  color: #ffb300 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.darken-2 {
+  background-color: #ffa000 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-darken-2 {
+  color: #ffa000 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.darken-3 {
+  background-color: #ff8f00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-darken-3 {
+  color: #ff8f00 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.darken-4 {
+  background-color: #ff6f00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-darken-4 {
+  color: #ff6f00 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.accent-1 {
+  background-color: #ffe57f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-accent-1 {
+  color: #ffe57f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.accent-2 {
+  background-color: #ffd740 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-accent-2 {
+  color: #ffd740 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.accent-3 {
+  background-color: #ffc400 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-accent-3 {
+  color: #ffc400 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.amber.accent-4 {
+  background-color: #ffab00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.amber-text.text-accent-4 {
+  color: #ffab00 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.orange {
+  background-color: #ff9800 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.orange-text {
+  color: #ff9800 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.lighten-5 {
+  background-color: #fff3e0 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-lighten-5 {
+  color: #fff3e0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.lighten-4 {
+  background-color: #ffe0b2 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-lighten-4 {
+  color: #ffe0b2 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.lighten-3 {
+  background-color: #ffcc80 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-lighten-3 {
+  color: #ffcc80 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.lighten-2 {
+  background-color: #ffb74d !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-lighten-2 {
+  color: #ffb74d !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.lighten-1 {
+  background-color: #ffa726 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-lighten-1 {
+  color: #ffa726 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.darken-1 {
+  background-color: #fb8c00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-darken-1 {
+  color: #fb8c00 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.darken-2 {
+  background-color: #f57c00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-darken-2 {
+  color: #f57c00 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.darken-3 {
+  background-color: #ef6c00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-darken-3 {
+  color: #ef6c00 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.darken-4 {
+  background-color: #e65100 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-darken-4 {
+  color: #e65100 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.accent-1 {
+  background-color: #ffd180 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-accent-1 {
+  color: #ffd180 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.accent-2 {
+  background-color: #ffab40 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-accent-2 {
+  color: #ffab40 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.accent-3 {
+  background-color: #ff9100 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-accent-3 {
+  color: #ff9100 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.orange.accent-4 {
+  background-color: #ff6d00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.orange-text.text-accent-4 {
+  color: #ff6d00 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.deep-orange {
+  background-color: #ff5722 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.deep-orange-text {
+  color: #ff5722 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.lighten-5 {
+  background-color: #fbe9e7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-lighten-5 {
+  color: #fbe9e7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.lighten-4 {
+  background-color: #ffccbc !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-lighten-4 {
+  color: #ffccbc !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.lighten-3 {
+  background-color: #ffab91 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-lighten-3 {
+  color: #ffab91 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.lighten-2 {
+  background-color: #ff8a65 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-lighten-2 {
+  color: #ff8a65 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.lighten-1 {
+  background-color: #ff7043 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-lighten-1 {
+  color: #ff7043 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.darken-1 {
+  background-color: #f4511e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-darken-1 {
+  color: #f4511e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.darken-2 {
+  background-color: #e64a19 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-darken-2 {
+  color: #e64a19 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.darken-3 {
+  background-color: #d84315 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-darken-3 {
+  color: #d84315 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.darken-4 {
+  background-color: #bf360c !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-darken-4 {
+  color: #bf360c !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.accent-1 {
+  background-color: #ff9e80 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-accent-1 {
+  color: #ff9e80 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.accent-2 {
+  background-color: #ff6e40 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-accent-2 {
+  color: #ff6e40 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.accent-3 {
+  background-color: #ff3d00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-accent-3 {
+  color: #ff3d00 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.deep-orange.accent-4 {
+  background-color: #dd2c00 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.deep-orange-text.text-accent-4 {
+  color: #dd2c00 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.brown {
+  background-color: #795548 !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.brown-text {
+  color: #795548 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.brown.lighten-5 {
+  background-color: #efebe9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.brown-text.text-lighten-5 {
+  color: #efebe9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.brown.lighten-4 {
+  background-color: #d7ccc8 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.brown-text.text-lighten-4 {
+  color: #d7ccc8 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.brown.lighten-3 {
+  background-color: #bcaaa4 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.brown-text.text-lighten-3 {
+  color: #bcaaa4 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.brown.lighten-2 {
+  background-color: #a1887f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.brown-text.text-lighten-2 {
+  color: #a1887f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.brown.lighten-1 {
+  background-color: #8d6e63 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.brown-text.text-lighten-1 {
+  color: #8d6e63 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.brown.darken-1 {
+  background-color: #6d4c41 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.brown-text.text-darken-1 {
+  color: #6d4c41 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.brown.darken-2 {
+  background-color: #5d4037 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.brown-text.text-darken-2 {
+  color: #5d4037 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.brown.darken-3 {
+  background-color: #4e342e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.brown-text.text-darken-3 {
+  color: #4e342e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.brown.darken-4 {
+  background-color: #3e2723 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.brown-text.text-darken-4 {
+  color: #3e2723 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.blue-grey {
+  background-color: #607d8b !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.blue-grey-text {
+  color: #607d8b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue-grey.lighten-5 {
+  background-color: #eceff1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-grey-text.text-lighten-5 {
+  color: #eceff1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue-grey.lighten-4 {
+  background-color: #cfd8dc !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-grey-text.text-lighten-4 {
+  color: #cfd8dc !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue-grey.lighten-3 {
+  background-color: #b0bec5 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-grey-text.text-lighten-3 {
+  color: #b0bec5 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue-grey.lighten-2 {
+  background-color: #90a4ae !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-grey-text.text-lighten-2 {
+  color: #90a4ae !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue-grey.lighten-1 {
+  background-color: #78909c !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-grey-text.text-lighten-1 {
+  color: #78909c !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue-grey.darken-1 {
+  background-color: #546e7a !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-grey-text.text-darken-1 {
+  color: #546e7a !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue-grey.darken-2 {
+  background-color: #455a64 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-grey-text.text-darken-2 {
+  color: #455a64 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue-grey.darken-3 {
+  background-color: #37474f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-grey-text.text-darken-3 {
+  color: #37474f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.blue-grey.darken-4 {
+  background-color: #263238 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.blue-grey-text.text-darken-4 {
+  color: #263238 !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.grey {
+  background-color: #9e9e9e !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.grey-text {
+  color: #9e9e9e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.grey.lighten-5 {
+  background-color: #fafafa !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.grey-text.text-lighten-5 {
+  color: #fafafa !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.grey.lighten-4 {
+  background-color: #f5f5f5 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.grey-text.text-lighten-4 {
+  color: #f5f5f5 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.grey.lighten-3 {
+  background-color: #eeeeee !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.grey-text.text-lighten-3 {
+  color: #eeeeee !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.grey.lighten-2 {
+  background-color: #e0e0e0 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.grey-text.text-lighten-2 {
+  color: #e0e0e0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.grey.lighten-1 {
+  background-color: #bdbdbd !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.grey-text.text-lighten-1 {
+  color: #bdbdbd !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.grey.darken-1 {
+  background-color: #757575 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.grey-text.text-darken-1 {
+  color: #757575 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.grey.darken-2 {
+  background-color: #616161 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.grey-text.text-darken-2 {
+  color: #616161 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.grey.darken-3 {
+  background-color: #424242 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.grey-text.text-darken-3 {
+  color: #424242 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.grey.darken-4 {
+  background-color: #212121 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.grey-text.text-darken-4 {
+  color: #212121 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.foreign-crimson {
+  background-color: #c91f37 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-foreign-crimson {
+  color: #c91f37 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.red-orange {
+  background-color: #dc3023 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-red-orange {
+  color: #dc3023 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.cochineal-red {
+  background-color: #9d2933 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-cochineal-red {
+  color: #9d2933 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.monza {
+  background-color: #cf000f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-monza {
+  color: #cf000f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.brewed-mustard-brown {
+  background-color: #e68364 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-brewed-mustard-brown {
+  color: #e68364 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.pomegranate {
+  background-color: #f22613 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-pomegranate {
+  color: #f22613 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.scarlet {
+  background-color: #cf3a24 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-scarlet {
+  color: #cf3a24 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.pure-crimson {
+  background-color: #c3272b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-pure-crimson {
+  color: #c3272b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.true-red {
+  background-color: #8f1d21 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-true-red {
+  color: #8f1d21 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.chestnut-rose {
+  background-color: #d24d57 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-chestnut-rose {
+  color: #d24d57 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.bitter-sweet {
+  background-color: #fc6e51 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-bitter-sweet {
+  color: #fc6e51 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.bitter-sweet-2 {
+  background-color: #e9573f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-bitter-sweet-2 {
+  color: #e9573f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-red.grapefruit-2 {
+  background-color: #da4453 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-red-text.text-grapefruit-2 {
+  color: #da4453 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.one-kin-dye {
+  background-color: #f08f907 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-one-kin-dye {
+  color: #f08f907 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.peach-colored {
+  background-color: #f47983 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-peach-colored {
+  color: #f47983 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.red-plum-colored {
+  background-color: #db5a6b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-red-plum-colored {
+  color: #db5a6b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.medium-crimson {
+  background-color: #c93756 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-medium-crimson {
+  color: #c93756 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.cherry-blossom-color {
+  background-color: #fcc9b9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-cherry-blossom-color {
+  color: #fcc9b9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.washed-out-crimson {
+  background-color: #ffb3a7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-washed-out-crimson {
+  color: #ffb3a7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.radical-red {
+  background-color: #f62459 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-radical-red {
+  color: #f62459 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.ibis-wing-color {
+  background-color: #f58f84 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-ibis-wing-color {
+  color: #f58f84 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.grapefruit {
+  background-color: #ed5565 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-grapefruit {
+  color: #ed5565 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.pink-rose {
+  background-color: #ec87c0 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-pink-rose {
+  color: #ec87c0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-pink.pink-rose-2 {
+  background-color: #d770ad !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-pink-text.text-pink-rose-2 {
+  color: #d770ad !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.wisteria-purple {
+  background-color: #875f9a !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-wisteria-purple {
+  color: #875f9a !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.bellflower-color {
+  background-color: #5d3f6a !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-bellflower-color {
+  color: #5d3f6a !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.wisteria-color {
+  background-color: #89729e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-wisteria-color {
+  color: #89729e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.iris-color {
+  background-color: #763568 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-iris-color {
+  color: #763568 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.tatarian-aster-color {
+  background-color: #8d608c !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-tatarian-aster-color {
+  color: #8d608c !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.thin-color {
+  background-color: #a87ca0 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-thin-color {
+  color: #a87ca0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.violet-color {
+  background-color: #5b3256 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-violet-color {
+  color: #5b3256 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.medium-purple {
+  background-color: #bf55ec !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-medium-purple {
+  color: #bf55ec !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.studio {
+  background-color: #8e44ad !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-studio {
+  color: #8e44ad !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.wisteria {
+  background-color: #9b59b6 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-wisteria {
+  color: #9b59b6 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.light-wisteria {
+  background-color: #be90d4 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-light-wisteria {
+  color: #be90d4 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.lavender {
+  background-color: #ac92ec !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-lavender {
+  color: #ac92ec !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-purple.lavender-2 {
+  background-color: #967adc !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-purple-text.text-lavender-2 {
+  color: #967adc !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.sky-color {
+  background-color: #4d8fac !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-sky-color {
+  color: #4d8fac !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.ultramarine-color {
+  background-color: #5d8cae !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-ultramarine-color {
+  color: #5d8cae !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.picton-blue {
+  background-color: #22a7f0 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-picton-blue {
+  color: #22a7f0 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.dodger-blue {
+  background-color: #19b5fe !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-dodger-blue {
+  color: #19b5fe !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.picton-blue-2 {
+  background-color: #59abe3 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-picton-blue-2 {
+  color: #59abe3 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.light-blue-color {
+  background-color: #48929b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-light-blue-color {
+  color: #48929b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.thousand-herb {
+  background-color: #317589 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-thousand-herb {
+  color: #317589 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.jordy-blue {
+  background-color: #89c4f4 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-jordy-blue {
+  color: #89c4f4 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.steel-blue {
+  background-color: #4b77be !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-steel-blue {
+  color: #4b77be !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.lapis-lazuli-color {
+  background-color: #1f4788 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-lapis-lazuli-color {
+  color: #1f4788 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.navy-blue-color {
+  background-color: #003171 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-navy-blue-color {
+  color: #003171 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.hanada {
+  background-color: #044f67 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-hanada {
+  color: #044f67 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.indigo-color {
+  background-color: #264348 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-indigo-color {
+  color: #264348 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.blue-jeans {
+  background-color: #5d9cec !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-blue-jeans {
+  color: #5d9cec !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.blue-jeans-2 {
+  background-color: #4a89dc !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-blue-jeans-2 {
+  color: #4a89dc !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.aqua {
+  background-color: #4fc1e9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-aqua {
+  color: #4fc1e9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-blue.aqua-2 {
+  background-color: #3bafda !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-blue-text.text-aqua-2 {
+  color: #3bafda !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.siskin-sprout-yellow {
+  background-color: #7a942e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-siskin-sprout-yellow {
+  color: #7a942e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.young-green-onion {
+  background-color: #8db255 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-young-green-onion {
+  color: #8db255 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.fresh-onion {
+  background-color: #5b8930 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-fresh-onion {
+  color: #5b8930 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.young-bamboo-color {
+  background-color: #6b9362 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-young-bamboo-color {
+  color: #6b9362 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.patina {
+  background-color: #407a52 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-patina {
+  color: #407a52 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.green-bamboo {
+  background-color: #006442 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-green-bamboo {
+  color: #006442 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.gossip {
+  background-color: #87d37c !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-gossip {
+  color: #87d37c !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.eucalyptus {
+  background-color: #26a65b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-eucalyptus {
+  color: #26a65b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.jungle-green {
+  background-color: #26c281 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-jungle-green {
+  color: #26c281 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.observatory {
+  background-color: #049372 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-observatory {
+  color: #049372 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.jungle-green-2 {
+  background-color: #2abb9b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-jungle-green-2 {
+  color: #2abb9b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.mountain-meadow {
+  background-color: #16a085 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-mountain-meadow {
+  color: #16a085 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.turquoise {
+  background-color: #36d7b7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-turquoise {
+  color: #36d7b7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.free-speech-aquamarine {
+  background-color: #03a678 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-free-speech-aquamarine {
+  color: #03a678 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.ocean-green {
+  background-color: #4daf7c !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-ocean-green {
+  color: #4daf7c !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.mint {
+  background-color: #48cfad !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-mint {
+  color: #48cfad !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.mint-2 {
+  background-color: #37bc9b !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-mint-2 {
+  color: #37bc9b !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.grass {
+  background-color: #a0d468 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-grass {
+  color: #a0d468 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-green.grass-2 {
+  background-color: #8cc152 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-green-text.text-grass-2 {
+  color: #8cc152 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.patrinia-flowers {
+  background-color: #d9b611 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-patrinia-flowers {
+  color: #d9b611 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.amur-cork-true {
+  background-color: #f3c13a !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-amur-cork-true {
+  color: #f3c13a !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.ripe-lemon {
+  background-color: #f7ca18 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-ripe-lemon {
+  color: #f7ca18 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.japanese-tiandra-grass {
+  background-color: #e2b13c !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-japanese-tiandra-grass {
+  color: #e2b13c !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.rapeseed-oil-colored {
+  background-color: #a17917 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-rapeseed-oil-colored {
+  color: #a17917 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.cream-can {
+  background-color: #f5d76e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-cream-can {
+  color: #f5d76e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.saffron {
+  background-color: #f4d03f !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-saffron {
+  color: #f4d03f !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.bright-golden-yellow {
+  background-color: #ffa400 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-bright-golden-yellow {
+  color: #ffa400 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.sumac-dyed {
+  background-color: #e08a1e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-sumac-dyed {
+  color: #e08a1e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.gamboge {
+  background-color: #ffb61e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-gamboge {
+  color: #ffb61e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.corn-colored {
+  background-color: #faa945 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-corn-colored {
+  color: #faa945 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.egg-colored {
+  background-color: #ffa631 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-egg-colored {
+  color: #ffa631 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.floral-leaf-colored {
+  background-color: #ffb94e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-floral-leaf-colored {
+  color: #ffb94e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.golden-fallen-leaves {
+  background-color: #e29c45 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-golden-fallen-leaves {
+  color: #e29c45 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.ecstasy {
+  background-color: #f9690e !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-ecstasy {
+  color: #f9690e !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.amber {
+  background-color: #ca6924 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-amber {
+  color: #ca6924 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.lightning-yellow {
+  background-color: #f5ab35 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-lightning-yellow {
+  color: #f5ab35 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.sunflower {
+  background-color: #ffce54 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-sunflower {
+  color: #ffce54 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-yellow.sunflower-2 {
+  background-color: #f6bb42 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-yellow-text.text-sunflower-2 {
+  color: #f6bb42 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.silver {
+  background-color: #bfbfbf !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-silver {
+  color: #bfbfbf !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.carrara {
+  background-color: #f2f1ef !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-carrara {
+  color: #f2f1ef !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.silver-sand {
+  background-color: #bdc3c7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-silver-sand {
+  color: #bdc3c7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.porcelain {
+  background-color: #ecf0f1 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-porcelain {
+  color: #ecf0f1 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.pumice {
+  background-color: #d2d7d3 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-pumice {
+  color: #d2d7d3 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.harbor-rat {
+  background-color: #757d75 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-harbor-rat {
+  color: #757d75 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.gallery {
+  background-color: #eeeeee !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-gallery {
+  color: #eeeeee !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.edward {
+  background-color: #abb7b7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-edward {
+  color: #abb7b7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.lynch {
+  background-color: #6c7a89 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-lynch {
+  color: #6c7a89 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.cascade {
+  background-color: #95a5a6 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-cascade {
+  color: #95a5a6 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.light-gray {
+  background-color: #f5f7fa !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-light-gray {
+  color: #f5f7fa !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.light-gray-2 {
+  background-color: #e6e9ed !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-light-gray-2 {
+  color: #e6e9ed !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.medium-gray {
+  background-color: #ccd1d9 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-medium-gray {
+  color: #ccd1d9 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.medium-gray-2 {
+  background-color: #aab2bd !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-medium-gray-2 {
+  color: #aab2bd !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.dark-gray {
+  background-color: #656d78 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-dark-gray {
+  color: #656d78 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.btf-gray.dark-gray-2 {
+  background-color: #434a54 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.btf-gray-text.text-dark-gray-2 {
+  color: #434a54 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.mdb-color.lighten-5 {
+  background-color: #D0D6E2 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.mdb-color-text.text-lighten-5 {
+  color: #D0D6E2 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.mdb-color.lighten-4 {
+  background-color: #B1BACE !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.mdb-color-text.text-lighten-4 {
+  color: #B1BACE !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.mdb-color.lighten-3 {
+  background-color: #929FBA !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.mdb-color-text.text-lighten-3 {
+  color: #929FBA !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.mdb-color.lighten-2 {
+  background-color: #7283A7 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.mdb-color-text.text-lighten-2 {
+  color: #7283A7 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.mdb-color.lighten-1 {
+  background-color: #59698D !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.mdb-color-text.text-lighten-1 {
+  color: #59698D !important;
+}
+
+/* line 523, ../sass/_colors.scss */
+.mdb-color {
+  background-color: #45526E !important;
+}
+
+/* line 526, ../sass/_colors.scss */
+.mdb-color-text {
+  color: #45526E !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.mdb-color.darken-1 {
+  background-color: #3B465E !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.mdb-color-text.text-darken-1 {
+  color: #3B465E !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.mdb-color.darken-2 {
+  background-color: #2E3951 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.mdb-color-text.text-darken-2 {
+  color: #2E3951 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.mdb-color.darken-3 {
+  background-color: #1C2A48 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.mdb-color-text.text-darken-3 {
+  color: #1C2A48 !important;
+}
+
+/* line 531, ../sass/_colors.scss */
+.mdb-color.darken-4 {
+  background-color: #1C2331 !important;
+}
+
+/* line 534, ../sass/_colors.scss */
+.mdb-color-text.text-darken-4 {
+  color: #1C2331 !important;
+}
+
+/* line 543, ../sass/_colors.scss */
+.black {
+  background-color: #000000 !important;
+}
+
+/* line 546, ../sass/_colors.scss */
+.black-text {
+  color: #000000 !important;
+}
+
+/* line 543, ../sass/_colors.scss */
+.white {
+  background-color: #FFFFFF !important;
+}
+
+/* line 546, ../sass/_colors.scss */
+.white-text {
+  color: #FFFFFF !important;
+}
+
+/* line 543, ../sass/_colors.scss */
+.transparent {
+  background-color: transparent !important;
+}
+
+/* line 546, ../sass/_colors.scss */
+.transparent-text {
+  color: transparent !important;
+}
+
+/* line 600, ../sass/_colors.scss */
+.danger-color {
+  background-color: #ff4444 !important;
+}
+
+/* line 605, ../sass/_colors.scss */
+.danger-color-dark {
+  background-color: #CC0000 !important;
+}
+
+/* line 610, ../sass/_colors.scss */
+.warning-color {
+  background-color: #ffbb33 !important;
+}
+
+/* line 615, ../sass/_colors.scss */
+.warning-color-dark {
+  background-color: #FF8800 !important;
+}
+
+/* line 620, ../sass/_colors.scss */
+.success-color {
+  background-color: #00C851 !important;
+}
+
+/* line 625, ../sass/_colors.scss */
+.success-color-dark {
+  background-color: #007E33 !important;
+}
+
+/* line 630, ../sass/_colors.scss */
+.info-color {
+  background-color: #33b5e5 !important;
+}
+
+/* line 635, ../sass/_colors.scss */
+.info-color-dark {
+  background-color: #0099CC !important;
+}
+
+/* line 641, ../sass/_colors.scss */
+.default-color {
+  background-color: #2BBBAD !important;
+}
+
+/* line 646, ../sass/_colors.scss */
+.default-color-dark {
+  background-color: #00695c !important;
+}
+
+/* line 651, ../sass/_colors.scss */
+.primary-color {
+  background-color: #4285F4 !important;
+}
+
+/* line 656, ../sass/_colors.scss */
+.primary-color-dark {
+  background-color: #0d47a1 !important;
+}
+
+/* line 661, ../sass/_colors.scss */
+.secondary-color {
+  background-color: #aa66cc !important;
+}
+
+/* line 666, ../sass/_colors.scss */
+.secondary-color-dark {
+  background-color: #9933CC !important;
+}
+
+/* line 671, ../sass/_colors.scss */
+.elegant-color {
+  background-color: #2E2E2E !important;
+}
+
+/* line 676, ../sass/_colors.scss */
+.elegant-color-dark {
+  background-color: #212121 !important;
+}
+
+/* line 681, ../sass/_colors.scss */
+.stylish-color {
+  background-color: #4B515D !important;
+}
+
+/* line 686, ../sass/_colors.scss */
+.stylish-color-dark {
+  background-color: #3E4551 !important;
+}
+
+/* line 691, ../sass/_colors.scss */
+.special-color {
+  background-color: #37474F !important;
+}
+
+/* line 696, ../sass/_colors.scss */
+.special-color-dark {
+  background-color: #263238 !important;
+}
+
+/* line 701, ../sass/_colors.scss */
+.unique-color {
+  background-color: #3F729B !important;
+}
+
+/* line 706, ../sass/_colors.scss */
+.unique-color-dark {
+  background-color: #1C2331 !important;
+}
+
+/* line 711, ../sass/_colors.scss */
+.mdb-color {
+  background-color: #45526E !important;
+}
+
+/* line 719, ../sass/_colors.scss */
+.rgba-blue-light {
+  background-color: rgba(3, 169, 244, 0.3) !important;
+}
+
+/* line 724, ../sass/_colors.scss */
+.rgba-red-light {
+  background-color: rgba(244, 67, 54, 0.3) !important;
+}
+
+/* line 729, ../sass/_colors.scss */
+.rgba-pink-light {
+  background-color: rgba(233, 30, 99, 0.3) !important;
+}
+
+/* line 734, ../sass/_colors.scss */
+.rgba-purple-light {
+  background-color: rgba(156, 39, 176, 0.3) !important;
+}
+
+/* line 739, ../sass/_colors.scss */
+.rgba-indigo-light {
+  background-color: rgba(63, 81, 181, 0.3) !important;
+}
+
+/* line 744, ../sass/_colors.scss */
+.rgba-cyan-light {
+  background-color: rgba(0, 188, 212, 0.3) !important;
+}
+
+/* line 749, ../sass/_colors.scss */
+.rgba-teal-light {
+  background-color: rgba(0, 150, 136, 0.3) !important;
+}
+
+/* line 754, ../sass/_colors.scss */
+.rgba-green-light {
+  background-color: rgba(76, 175, 80, 0.3) !important;
+}
+
+/* line 759, ../sass/_colors.scss */
+.rgba-lime-light {
+  background-color: rgba(205, 220, 57, 0.3) !important;
+}
+
+/* line 764, ../sass/_colors.scss */
+.rgba-yellow-light {
+  background-color: rgba(255, 235, 59, 0.3) !important;
+}
+
+/* line 769, ../sass/_colors.scss */
+.rgba-orange-light {
+  background-color: rgba(255, 152, 0, 0.3) !important;
+}
+
+/* line 774, ../sass/_colors.scss */
+.rgba-brown-light {
+  background-color: rgba(121, 85, 72, 0.3) !important;
+}
+
+/* line 779, ../sass/_colors.scss */
+.rgba-grey-light {
+  background-color: rgba(158, 158, 158, 0.3) !important;
+}
+
+/* line 784, ../sass/_colors.scss */
+.rgba-bluegrey-light {
+  background-color: rgba(96, 125, 139, 0.3) !important;
+}
+
+/* line 789, ../sass/_colors.scss */
+.rgba-black-light {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* line 794, ../sass/_colors.scss */
+.rgba-stylish-light {
+  background-color: rgba(62, 69, 81, 0.3) !important;
+}
+
+/* line 799, ../sass/_colors.scss */
+.rgba-white-light {
+  background-color: rgba(255, 255, 255, 0.3) !important;
+}
+
+/* line 805, ../sass/_colors.scss */
+.rgba-blue-strong {
+  background-color: rgba(3, 169, 244, 0.7) !important;
+}
+
+/* line 810, ../sass/_colors.scss */
+.rgba-red-strong {
+  background-color: rgba(244, 67, 54, 0.7) !important;
+}
+
+/* line 815, ../sass/_colors.scss */
+.rgba-pink-strong {
+  background-color: rgba(233, 30, 99, 0.7) !important;
+}
+
+/* line 820, ../sass/_colors.scss */
+.rgba-purple-strong {
+  background-color: rgba(156, 39, 176, 0.7) !important;
+}
+
+/* line 825, ../sass/_colors.scss */
+.rgba-indigo-strong {
+  background-color: rgba(63, 81, 181, 0.7) !important;
+}
+
+/* line 830, ../sass/_colors.scss */
+.rgba-cyan-strong {
+  background-color: rgba(0, 188, 212, 0.7) !important;
+}
+
+/* line 835, ../sass/_colors.scss */
+.rgba-teal-strong {
+  background-color: rgba(0, 150, 136, 0.7) !important;
+}
+
+/* line 840, ../sass/_colors.scss */
+.rgba-green-strong {
+  background-color: rgba(76, 175, 80, 0.7) !important;
+}
+
+/* line 845, ../sass/_colors.scss */
+.rgba-lime-strong {
+  background-color: rgba(205, 220, 57, 0.7) !important;
+}
+
+/* line 850, ../sass/_colors.scss */
+.rgba-yellow-strong {
+  background-color: rgba(255, 235, 59, 0.7) !important;
+}
+
+/* line 855, ../sass/_colors.scss */
+.rgba-orange-strong {
+  background-color: rgba(255, 152, 0, 0.7) !important;
+}
+
+/* line 860, ../sass/_colors.scss */
+.rgba-brown-strong {
+  background-color: rgba(121, 85, 72, 0.7) !important;
+}
+
+/* line 865, ../sass/_colors.scss */
+.rgba-grey-strong {
+  background-color: rgba(158, 158, 158, 0.7) !important;
+}
+
+/* line 870, ../sass/_colors.scss */
+.rgba-bluegrey-strong {
+  background-color: rgba(96, 125, 139, 0.7) !important;
+}
+
+/* line 875, ../sass/_colors.scss */
+.rgba-black-strong {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+/* line 880, ../sass/_colors.scss */
+.rgba-stylish-strong {
+  background-color: rgba(62, 69, 81, 0.7) !important;
+}
+
+/* line 885, ../sass/_colors.scss */
+.rgba-white-strong {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+}
+
+/* line 891, ../sass/_colors.scss */
+.rgba-blue-slight {
+  background-color: rgba(3, 169, 244, 0.1) !important;
+}
+
+/* line 896, ../sass/_colors.scss */
+.rgba-red-slight {
+  background-color: rgba(244, 67, 54, 0.1) !important;
+}
+
+/* line 901, ../sass/_colors.scss */
+.rgba-pink-slight {
+  background-color: rgba(233, 30, 99, 0.1) !important;
+}
+
+/* line 906, ../sass/_colors.scss */
+.rgba-purple-slight {
+  background-color: rgba(156, 39, 176, 0.1) !important;
+}
+
+/* line 911, ../sass/_colors.scss */
+.rgba-indigo-slight {
+  background-color: rgba(63, 81, 181, 0.1) !important;
+}
+
+/* line 916, ../sass/_colors.scss */
+.rgba-cyan-slight {
+  background-color: rgba(0, 188, 212, 0.1) !important;
+}
+
+/* line 921, ../sass/_colors.scss */
+.rgba-teal-slight {
+  background-color: rgba(0, 150, 136, 0.1) !important;
+}
+
+/* line 926, ../sass/_colors.scss */
+.rgba-green-slight {
+  background-color: rgba(76, 175, 80, 0.1) !important;
+}
+
+/* line 931, ../sass/_colors.scss */
+.rgba-lime-slight {
+  background-color: rgba(205, 220, 57, 0.1) !important;
+}
+
+/* line 936, ../sass/_colors.scss */
+.rgba-yellow-slight {
+  background-color: rgba(255, 235, 59, 0.1) !important;
+}
+
+/* line 941, ../sass/_colors.scss */
+.rgba-orange-slight {
+  background-color: rgba(255, 152, 0, 0.1) !important;
+}
+
+/* line 946, ../sass/_colors.scss */
+.rgba-brown-slight {
+  background-color: rgba(121, 85, 72, 0.1) !important;
+}
+
+/* line 951, ../sass/_colors.scss */
+.rgba-grey-slight {
+  background-color: rgba(158, 158, 158, 0.1) !important;
+}
+
+/* line 956, ../sass/_colors.scss */
+.rgba-bluegrey-slight {
+  background-color: rgba(96, 125, 139, 0.1) !important;
+}
+
+/* line 961, ../sass/_colors.scss */
+.rgba-black-slight {
+  background-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+/* line 966, ../sass/_colors.scss */
+.rgba-stylish-slight {
+  background-color: rgba(62, 69, 81, 0.1) !important;
+}
+
+/* line 971, ../sass/_colors.scss */
+.rgba-white-slight {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* line 975, ../sass/_colors.scss */
+.blue-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #062a64 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #062a64 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #062a64 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#062a64',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 983, ../sass/_colors.scss */
+.red-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #7d0000 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #7d0000 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #7d0000 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#7d0000',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 991, ../sass/_colors.scss */
+.green-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #003830 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #003830 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #003830 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#003830',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 999, ../sass/_colors.scss */
+.purple-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #650696 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #650696 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #650696 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#650696',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 1007, ../sass/_colors.scss */
+.dark-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #2e2e2e 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #2e2e2e 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #2e2e2e 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#2e2e2e',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 1015, ../sass/_colors.scss */
+.grey-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #4b515d 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #4b515d 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #4b515d 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#4b515d',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 1023, ../sass/_colors.scss */
+.mdb-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #3f729b 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #3f729b 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #3f729b 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#3f729b',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 1031, ../sass/_colors.scss */
+.deep-orange-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #8a1a00 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #8a1a00 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #8a1a00 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#8a1a00',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 1039, ../sass/_colors.scss */
+.graphite-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #37474f 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #37474f 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #37474f 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#37474f',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 1047, ../sass/_colors.scss */
+.pink-gradient {
+  background: #000000;
+  /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #000000 0%, #880e4f 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #000000 0%, #880e4f 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #000000 0%, #880e4f 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#880e4f',GradientType=1 );
+  /* IE6-9 fallback on horizontal gradient */
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-primary {
+  background-color: #4285F4 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-danger {
+  background-color: #ff4444 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-warning {
+  background-color: #FF8800 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-success {
+  background-color: #00C851 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-info {
+  background-color: #33b5e5 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-default {
+  background-color: #2BBBAD !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-secondary {
+  background-color: #aa66cc !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-elegant {
+  background-color: #2E2E2E !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-unique {
+  background-color: #880e4f !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-dark-green {
+  background-color: #388E3C !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-red {
+  background-color: #D32F2F !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-pink {
+  background-color: #ec407a !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-purple {
+  background-color: #8e24aa !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-deep-purple {
+  background-color: #512da8 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-indigo {
+  background-color: #3f51b5 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-blue {
+  background-color: #1976D2 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-light-blue {
+  background-color: #82B1FF !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-cyan {
+  background-color: #00bcd4 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-teal {
+  background-color: #00796b !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-green {
+  background-color: #388E3C !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-light-green {
+  background-color: #8bc34a !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-lime {
+  background-color: #afb42b !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-yellow {
+  background-color: #fbc02d !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-amber {
+  background-color: #ffa000 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-orange {
+  background-color: #f57c00 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-deep-orange {
+  background-color: #ff7043 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-brown {
+  background-color: #795548 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-grey {
+  background-color: #616161 !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-blue-grey {
+  background-color: #78909c !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-white {
+  background-color: #fff !important;
+}
+
+/* line 1207, ../sass/_colors.scss */
+.bg-black {
+  background-color: #000 !important;
+}
+
+/* line 1212, ../sass/_colors.scss */
+.zolkusowy-gradient {
+  background: #00ff90;
+  background: -moz-linear-gradient(top, #00ff90 0%, #59ffdd 47%, #ffff00 100%);
+  background: -webkit-linear-gradient(top, #00ff90 0%, #59ffdd 47%, #ffff00 100%);
+  background: linear-gradient(to bottom, #00ff90 0%, #59ffdd 47%, #ffff00 100%);
+}
